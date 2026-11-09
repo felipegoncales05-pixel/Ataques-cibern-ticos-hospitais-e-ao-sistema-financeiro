@@ -124,6 +124,7 @@ A decisão do grupo é **implantar com controles estritos**. O projeto não pode
 * **Feedback Conjunto do Grupo:** A Ana demonstrou excelente domínio técnico na identificação de vetores de ataque em APIs, conduzindo as defesas com rigor e clareza para toda a equipe.
 
 ### Capítulo do Integrante 2: Grazielle Silva (Cloud)
+### Capítulo do Integrante 2: Grazielle Silva Luiz (Cloud)
 * **Papel no Projeto:** Responsável pela arquitetura de infraestrutura em nuvem, configuração dos cofres de chaves e isolamento dos ambientes de multi-tenancy.
 * **Plano de Desenvolvimento (Metas SMART para 6 a 12 meses):**
   * *Meta:* Concluir a certificação AWS Certified Solutions Architect - Professional em até 6 meses.
@@ -137,7 +138,7 @@ A decisão do grupo é **implantar com controles estritos**. O projeto não pode
   * *Meta:* Reduzir em 30% a latência de tunelamento seguro nas simulações de tráfego até o próximo trimestre.
 * **Feedback Conjunto do Grupo:** A Carla foi fundamental para estruturar o isolamento de rede, assegurando que o tráfego entre parceiros e hospitais ocorresse sob rigoroso controle.
 
-### Capítulo do Integrante 4: Daniel Rocha (Gestão)
+### Capítulo do Integrante 4: Rafael Gimenes (Gestão)
 * **Papel no Projeto:** Responsável pela governança de fornecedores, alinhamento contratual (SLAs de segurança, LGPD) e elaboração do quadro de decisões e impacto do projeto.
 * **Plano de Desenvolvimento (Metas SMART para 6 a 12 meses):**
   * *Meta:* Obter certificação em Governança de TI (COBIT ou ITIL 4 Managing Professional) nos próximos 10 meses.
