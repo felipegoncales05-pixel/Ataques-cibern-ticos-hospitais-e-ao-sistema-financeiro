@@ -6,7 +6,7 @@
 * **Recorte Adotado:** Opção 4 – Recorte por Vetor de Ataque (Cadeia de Suprimentos / B2B), focado em vulnerabilidades originadas em fornecedores terceirizados de software de gestão hospitalar (ERP/SaaS) que criam brechas secundárias nos módulos de prontuários eletrônicos e transações financeiras.
 * **Integrantes do Grupo (4 membros):**
   * **Integrante 1 (Cibersegurança):** Ana Souza | RGM: 1234567 | GitHub: [@anasouza-sec](https://github.com/)
-  * **Integrante 2 (Cloud):** Bruno Lima | RGM: 2345678 | GitHub: [@brunolima-cloud](https://github.com/)
+  * **Integrante 2 (Cloud):** Grazielle Silva Luiz| RGM: 47762144 | GitHub: https://github.com/grazisilvaluiz-tech(https://github.com/)
   * **Integrante 3 (Redes):** Carla Mendes | RGM: 3456789 | GitHub: [@carlamendes-net](https://github.com/)
   * **Integrante 4 (Gestão):** Daniel Rocha | RGM: 4567890 | GitHub: [@danielrocha-gov](https://github.com/)
 
