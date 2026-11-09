@@ -123,7 +123,7 @@ A decisão do grupo é **implantar com controles estritos**. O projeto não pode
   * *Meta:* Conduzir pelo menos 3 simulações práticas de resposta a incidentes de *Supply Chain* em laboratório de testes até o final do ano.
 * **Feedback Conjunto do Grupo:** A Ana demonstrou excelente domínio técnico na identificação de vetores de ataque em APIs, conduzindo as defesas com rigor e clareza para toda a equipe.
 
-### Capítulo do Integrante 2: Bruno Lima (Cloud)
+### Capítulo do Integrante 2: Grazielle Silva Luiz (Cloud)
 * **Papel no Projeto:** Responsável pela arquitetura de infraestrutura em nuvem, configuração dos cofres de chaves e isolamento dos ambientes de multi-tenancy.
 * **Plano de Desenvolvimento (Metas SMART para 6 a 12 meses):**
   * *Meta:* Concluir a certificação AWS Certified Solutions Architect - Professional em até 6 meses.
