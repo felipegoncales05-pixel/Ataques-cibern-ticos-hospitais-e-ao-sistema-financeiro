@@ -8,7 +8,7 @@
   * **Integrante 1 (Cibersegurança):** Ana Souza | RGM: 1234567 | GitHub: [@anasouza-sec](https://github.com/)
   * **Integrante 2 (Cloud):** Grazielle Silva Luiz| RGM: 47762144 | GitHub: https://github.com/grazisilvaluiz-tech(https://github.com/)
   * **Integrante 3 (Redes):** Carla Mendes | RGM: 3456789 | GitHub: [@carlamendes-net](https://github.com/)
-  * **Integrante 4 (Gestão):** Daniel Rocha | RGM: 4567890 | GitHub: [@danielrocha-gov](https://github.com/)
+  * **Integrante 4 (Gestão):** Rafael Gimenes | RGM: 47828111 | GitHub: [https://github.com/rafaelgimeneshbf-max
 
 ---
 
@@ -137,7 +137,7 @@ A decisão do grupo é **implantar com controles estritos**. O projeto não pode
   * *Meta:* Reduzir em 30% a latência de tunelamento seguro nas simulações de tráfego até o próximo trimestre.
 * **Feedback Conjunto do Grupo:** A Carla foi fundamental para estruturar o isolamento de rede, assegurando que o tráfego entre parceiros e hospitais ocorresse sob rigoroso controle.
 
-### Capítulo do Integrante 4: Daniel Rocha (Gestão)
+### Capítulo do Integrante 4: Rafael Gimenes (Gestão)
 * **Papel no Projeto:** Responsável pela governança de fornecedores, alinhamento contratual (SLAs de segurança, LGPD) e elaboração do quadro de decisões e impacto do projeto.
 * **Plano de Desenvolvimento (Metas SMART para 6 a 12 meses):**
   * *Meta:* Obter certificação em Governança de TI (COBIT ou ITIL 4 Managing Professional) nos próximos 10 meses.
