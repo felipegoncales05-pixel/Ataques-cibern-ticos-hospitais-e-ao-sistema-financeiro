@@ -8,7 +8,7 @@
   * **Integrante 1 (Cibersegurança):** Ana Souza | RGM: 1234567 | GitHub: [@anasouza-sec](https://github.com/)
   * **Integrante 2 (Cloud):** Grazielle Silva Luiz| RGM: 47762144 | GitHub: https://github.com/grazisilvaluiz-tech(https://github.com/)
   * **Integrante 3 (Redes):** Carla Mendes | RGM: 3456789 | GitHub: [@carlamendes-net](https://github.com/)
-  * **Integrante 4 (Gestão):** Daniel Rocha | RGM: 4567890 | GitHub: [@danielrocha-gov](https://github.com/)
+  * **Integrante 4 (Gestão):** Rafael Gimenes | RGM: 4782811 | GitHub: [rafaelgimeneshbf-max](https://github.com/)
 
 ---
 
